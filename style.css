@@ -1,0 +1,234 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.div1{
+    height: 500px;
+    background-color: #f0ee9c;
+}
+.div1 ul{
+  
+    overflow: hidden;
+    border:1px solid red;
+    background-color: #e4323b;
+    list-style-type: none;
+  
+}
+.div1 ul li{
+   
+    
+    padding: 10px 20px;
+    float: left;
+}
+.div1 ul li:hover{
+    color: white;
+    background-color: #1a73af;
+}
+.div1 h1{
+    text-align: center;
+    color: black;
+    position: absolute;
+    top: 180px;
+    left: 470px;
+    width: 600px;
+    
+}
+.div1 p{
+    text-align: center;
+    color: black;
+    position: absolute;
+    top: 250px;
+    left: 470px;
+    width: 600px;
+    height: 100px;
+    
+}
+.div1 .button{
+    background-color: #e4323b;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    position: absolute;
+    top:320px;
+    left: 690px;
+    
+}
+.div1 .button:hover{
+    background-color: #1a73af;
+}
+.div2{
+    background-color: #e4323b;
+    height: 200px;
+    width: 100%;
+}
+.div2 h1{
+    color: rgb(255, 255, 255);
+    padding: 25px;
+    
+    text-align: center;
+}
+* {
+    box-sizing: border-box;
+  }
+  
+.div3{
+    position: absolute;
+  left:290px;
+    padding-top:20px;
+    padding-bottom: 20px;
+text-align: center;
+    float: left;
+    width: 30%;
+    
+}
+  
+.div4{
+  position: absolute;
+  left:750px;
+
+    
+    padding-top:20px;
+    padding-bottom: 20px;
+text-align: center;
+    float: left;
+    width: 30%;
+    
+}
+.div5{
+    height:550px;
+    background-color: white;
+}
+* {
+    box-sizing: border-box;
+  }
+.div6{
+   
+   position: absolute;
+   top: 740px;
+left: 22%;
+  float: left;
+    width: 250px;
+    height: 470px;
+    background-color: #f0ee9c;
+
+}
+.div6 h2{
+    padding: 25px 0px;
+    text-align: center;
+    
+  
+}
+.div6 p{
+    padding: 25px 5px;
+    text-align: center;
+}
+
+.div7{
+    
+    position: absolute;
+   
+    top: 740px;
+    left: 41%;
+    float: left;
+    width: 250px;
+    height: 470px;
+    background-color: #f0ee9c;
+
+}
+.div7 h2{
+    padding: 25px 0px;
+    text-align: center;
+    
+  
+}
+.div7 p{
+    padding: 25px 5px;
+    text-align: center;
+}
+
+.div8{
+    
+    position: absolute;
+    top: 740px;
+    left: 60%;
+    float: left;
+    width: 250px;
+    height: 470px;
+    background-color: #f0ee9c;
+
+}
+.div8 h2{
+    padding: 25px 0px;
+    text-align: center;
+    
+  
+}
+.div8 p{
+    padding: 25px 5px;
+    text-align: center;
+}
+.div9{
+    background-color: #f0ee9c;
+    height: 200px;
+}
+.div9 h2{
+    text-align: center;
+    padding: 50px 0px;
+}
+.div9 p{
+    
+    padding-bottom: 40px;
+    text-align: center;
+}
+.div11{
+    height: 250px;
+    background-color: #2b8b9c;
+    float: left;
+width: 50%;
+}
+.div11 h1{
+    padding: 20px 0px;
+    text-align: center;
+
+}
+.div11 p{
+   
+    padding-bottom: 20px;
+    padding: 0px 50px;
+    text-align: center;
+
+}
+.div12{
+    height: 250px;
+    background-color: #f0c99c;
+    width: 50%;
+float: left;
+
+}
+.div12 h1{
+    padding: 20px 0px;
+    text-align: center;
+
+}
+.div12 p{
+    padding: 0px 50px;
+    padding-bottom: 20px;
+    text-align: center;
+
+}
+.f{
+    color: white;
+background-color: black;
+}
+.f p{
+    padding: 10px 0px;
+
+}
+@media only screen {
+    
+}
